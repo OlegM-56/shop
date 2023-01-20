@@ -1,0 +1,4 @@
+Django==4.1
+psycopg2-binary>=2.9.2,<=2.9.5
+
+flake8>=5.0.2,<=6.0.0
